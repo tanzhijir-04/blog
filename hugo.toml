@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tanzhijir.cyou'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'tanzhijir's garden'
 theme = 'hugo-theme-texify'
+publishDir = "docs"        # 修改静态代码文件夹为docs目录
+defaultContentLanguage = "zh-cn"
+uglyURLs=true
